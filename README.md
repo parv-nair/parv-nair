@@ -6,6 +6,7 @@
   <img src="https://profile-counter.glitch.me/parv-nair/count.svg?"  />
 </div>
 
+
 # 💫 About Me:
 👋 About Me<br>Hi, I'm Parvathy V. Nair! I'm currently diving into the world of cybersecurity, driven by a passion for learning and securing digital systems. My journey in tech has allowed me to develop skills in multiple programming languages, and I'm eager to continue expanding my expertise.<br><br>🔧 Technologies & Tools<br>Languages: C, Java, Python<br>Focus Area: Cybersecurity<br>🌱 What I'm Learning<br>I'm exploring various aspects of cybersecurity, including  like network security, ethical hacking, etc.. This field constantly evolves, and I’m excited to stay on the cutting edge of technology and security.<br><br>🚀 Goals<br>My aim is to become proficient in cybersecurity to contribute to a safer digital world and potentially make impactful contributions to open-source projects focused on security.
 
